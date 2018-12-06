@@ -1,7 +1,7 @@
-#shortcut virus remove
+# shortcut virus remove
 
 
-- [x]remove shortcut virus simple and painless.
+- [x] remove shortcut virus simple and painless.
 
 
 
