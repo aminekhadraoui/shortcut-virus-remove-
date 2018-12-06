@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="remove.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="64"/>
+        <CursorPos Y="87"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="5" HistoryIndex="4">
+      <Position1>
+        <Filename Value="remove.pas"/>
+        <Caret Line="42" Column="34" TopLine="35"/>
+      </Position1>
+      <Position2>
+        <Filename Value="remove.pas"/>
+        <Caret Line="16" Column="3" TopLine="8"/>
+      </Position2>
+      <Position3>
+        <Filename Value="remove.pas"/>
+        <Caret Line="83" Column="6" TopLine="51"/>
+      </Position3>
+      <Position4>
+        <Filename Value="remove.pas"/>
+        <Caret Line="20" Column="57"/>
+      </Position4>
+      <Position5>
+        <Filename Value="remove.pas"/>
+        <Caret Line="19" Column="38" TopLine="7"/>
+      </Position5>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
